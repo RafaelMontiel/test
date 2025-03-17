@@ -1,0 +1,120 @@
+Incident_ID,User_ID,Incident_Type,Risk_Level,Resolution_Time_min,Status,Detected_By,Timestamp
+1,2713,SQL Injection,Medium,208,In Progress,Automated System,2024-03-01 00:00:00
+2,8295,Malware Infection,High,377,Resolved,User Report,2024-03-01 01:00:00
+3,7861,Credential Stuffing,High,170,Escalated,Security Team,2024-03-01 02:00:00
+4,4741,SQL Injection,Low,166,Resolved,User Report,2024-03-01 03:00:00
+5,8698,Phishing Attempt,Low,161,Resolved,Security Team,2024-03-01 04:00:00
+6,1278,SQL Injection,High,419,In Progress,Automated System,2024-03-01 05:00:00
+7,2617,Credential Stuffing,Low,164,Resolved,Automated System,2024-03-01 06:00:00
+8,8430,Malware Infection,Medium,434,Resolved,Security Team,2024-03-01 07:00:00
+9,8017,Malware Infection,High,149,Escalated,User Report,2024-03-01 08:00:00
+10,2126,Malware Infection,Low,221,Resolved,Automated System,2024-03-01 09:00:00
+11,3351,Malware Infection,High,151,In Progress,Automated System,2024-03-01 10:00:00
+12,3608,Malware Infection,High,242,Resolved,Automated System,2024-03-01 11:00:00
+13,1398,Credential Stuffing,High,431,Resolved,Security Team,2024-03-01 12:00:00
+14,8717,Brute Force Attack,High,72,In Progress,Automated System,2024-03-01 13:00:00
+15,6666,Brute Force Attack,High,423,In Progress,Security Team,2024-03-01 14:00:00
+16,5113,Credential Stuffing,Low,247,In Progress,User Report,2024-03-01 15:00:00
+17,6892,Credential Stuffing,High,83,In Progress,Security Team,2024-03-01 16:00:00
+18,1411,Brute Force Attack,High,489,Resolved,Automated System,2024-03-01 17:00:00
+19,2545,Malware Infection,Low,131,In Progress,User Report,2024-03-01 18:00:00
+20,4324,Credential Stuffing,High,150,Resolved,Automated System,2024-03-01 19:00:00
+21,4847,Credential Stuffing,Medium,286,Resolved,Automated System,2024-03-01 20:00:00
+22,4037,Brute Force Attack,Medium,257,Resolved,Automated System,2024-03-01 21:00:00
+23,9349,Malware Infection,Low,316,Resolved,Automated System,2024-03-01 22:00:00
+24,8652,Malware Infection,High,297,Resolved,Security Team,2024-03-01 23:00:00
+25,4301,Brute Force Attack,Low,293,In Progress,User Report,2024-03-02 00:00:00
+26,6479,Brute Force Attack,Low,365,Resolved,Security Team,2024-03-02 01:00:00
+27,9234,Credential Stuffing,Low,318,Resolved,Automated System,2024-03-02 02:00:00
+28,4933,Phishing Attempt,Low,73,Resolved,Security Team,2024-03-02 03:00:00
+29,8553,Brute Force Attack,High,211,Resolved,Security Team,2024-03-02 04:00:00
+30,5794,SQL Injection,High,125,Resolved,Automated System,2024-03-02 05:00:00
+31,6750,Credential Stuffing,High,132,Resolved,User Report,2024-03-02 06:00:00
+32,8347,Malware Infection,High,189,Resolved,Automated System,2024-03-02 07:00:00
+33,5515,Brute Force Attack,Low,363,Resolved,User Report,2024-03-02 08:00:00
+34,9664,Brute Force Attack,High,419,In Progress,Automated System,2024-03-02 09:00:00
+35,3390,SQL Injection,Low,324,In Progress,Automated System,2024-03-02 10:00:00
+36,6633,SQL Injection,Medium,57,Resolved,User Report,2024-03-02 11:00:00
+37,7758,Phishing Attempt,Medium,145,In Progress,User Report,2024-03-02 12:00:00
+38,8059,Malware Infection,High,352,In Progress,User Report,2024-03-02 13:00:00
+39,7152,Malware Infection,Low,475,Resolved,Automated System,2024-03-02 14:00:00
+40,1441,Brute Force Attack,High,134,Resolved,Security Team,2024-03-02 15:00:00
+41,1824,SQL Injection,High,466,Resolved,User Report,2024-03-02 16:00:00
+42,9420,Credential Stuffing,Low,276,In Progress,User Report,2024-03-02 17:00:00
+43,8417,Credential Stuffing,Medium,106,In Progress,Security Team,2024-03-02 18:00:00
+44,6786,Malware Infection,High,182,In Progress,User Report,2024-03-02 19:00:00
+45,3807,Phishing Attempt,High,134,Resolved,Automated System,2024-03-02 20:00:00
+46,7324,Credential Stuffing,Low,386,In Progress,Automated System,2024-03-02 21:00:00
+47,2114,Malware Infection,Low,61,In Progress,Security Team,2024-03-02 22:00:00
+48,1302,Malware Infection,Low,430,Resolved,Automated System,2024-03-02 23:00:00
+49,6030,Phishing Attempt,High,288,Resolved,Security Team,2024-03-03 00:00:00
+50,8306,SQL Injection,High,351,In Progress,Security Team,2024-03-03 01:00:00
+51,6686,Malware Infection,Low,110,Resolved,Automated System,2024-03-03 02:00:00
+52,3073,Credential Stuffing,Medium,316,Resolved,User Report,2024-03-03 03:00:00
+53,5742,SQL Injection,Low,104,Resolved,Security Team,2024-03-03 04:00:00
+54,8258,Phishing Attempt,Low,258,In Progress,User Report,2024-03-03 05:00:00
+55,1833,Malware Infection,High,42,Resolved,Automated System,2024-03-03 06:00:00
+56,3546,SQL Injection,Medium,223,Resolved,Security Team,2024-03-03 07:00:00
+57,7151,SQL Injection,High,161,Resolved,Security Team,2024-03-03 08:00:00
+58,8401,Brute Force Attack,High,439,Resolved,Automated System,2024-03-03 09:00:00
+59,7905,Malware Infection,Medium,419,Resolved,Security Team,2024-03-03 10:00:00
+60,8741,Brute Force Attack,Low,401,In Progress,User Report,2024-03-03 11:00:00
+61,8445,Credential Stuffing,High,170,Resolved,User Report,2024-03-03 12:00:00
+62,4087,SQL Injection,High,227,Resolved,User Report,2024-03-03 13:00:00
+63,5643,SQL Injection,Medium,333,In Progress,User Report,2024-03-03 14:00:00
+64,5080,Malware Infection,High,411,Resolved,Automated System,2024-03-03 15:00:00
+65,4685,SQL Injection,High,181,Resolved,User Report,2024-03-03 16:00:00
+66,9957,Phishing Attempt,High,111,Resolved,User Report,2024-03-03 17:00:00
+67,5454,Phishing Attempt,High,363,Resolved,Security Team,2024-03-03 18:00:00
+68,7202,Malware Infection,High,41,Resolved,Security Team,2024-03-03 19:00:00
+69,6091,Credential Stuffing,High,444,In Progress,Security Team,2024-03-03 20:00:00
+70,7165,Brute Force Attack,Low,342,In Progress,Security Team,2024-03-03 21:00:00
+71,6479,Brute Force Attack,High,193,In Progress,Automated System,2024-03-03 22:00:00
+72,1857,SQL Injection,Low,443,Escalated,Security Team,2024-03-03 23:00:00
+73,2059,Credential Stuffing,High,228,Resolved,User Report,2024-03-04 00:00:00
+74,8500,Brute Force Attack,High,376,In Progress,Automated System,2024-03-04 01:00:00
+75,3139,Brute Force Attack,High,245,Resolved,Security Team,2024-03-04 02:00:00
+76,8004,Phishing Attempt,High,498,In Progress,Security Team,2024-03-04 03:00:00
+77,9121,SQL Injection,High,223,Resolved,Security Team,2024-03-04 04:00:00
+78,2125,Credential Stuffing,Medium,276,In Progress,User Report,2024-03-04 05:00:00
+79,8115,SQL Injection,High,262,In Progress,Security Team,2024-03-04 06:00:00
+80,5578,SQL Injection,High,135,Resolved,Security Team,2024-03-04 07:00:00
+81,8927,Malware Infection,High,135,Escalated,Automated System,2024-03-04 08:00:00
+82,1834,SQL Injection,High,205,Resolved,Automated System,2024-03-04 09:00:00
+83,9391,SQL Injection,Low,117,Resolved,User Report,2024-03-04 10:00:00
+84,1087,Malware Infection,Low,278,Resolved,Security Team,2024-03-04 11:00:00
+85,5981,SQL Injection,High,325,In Progress,Automated System,2024-03-04 12:00:00
+86,9310,Credential Stuffing,High,136,Resolved,Automated System,2024-03-04 13:00:00
+87,9491,Credential Stuffing,Medium,206,Resolved,Security Team,2024-03-04 14:00:00
+88,7326,Phishing Attempt,High,82,Resolved,Automated System,2024-03-04 15:00:00
+89,7216,Malware Infection,High,90,Resolved,Automated System,2024-03-04 16:00:00
+90,5741,Credential Stuffing,Medium,58,Resolved,User Report,2024-03-04 17:00:00
+91,2958,Malware Infection,High,267,In Progress,Security Team,2024-03-04 18:00:00
+92,4883,Phishing Attempt,Low,446,In Progress,User Report,2024-03-04 19:00:00
+93,5498,SQL Injection,High,267,Resolved,User Report,2024-03-04 20:00:00
+94,3187,Phishing Attempt,Medium,143,In Progress,Security Team,2024-03-04 21:00:00
+95,1472,Malware Infection,High,180,Resolved,Security Team,2024-03-04 22:00:00
+96,7187,SQL Injection,Low,380,Resolved,Security Team,2024-03-04 23:00:00
+97,9173,Phishing Attempt,Low,373,In Progress,Security Team,2024-03-05 00:00:00
+98,4734,SQL Injection,High,340,In Progress,Automated System,2024-03-05 01:00:00
+99,4069,Phishing Attempt,Medium,279,Resolved,Security Team,2024-03-05 02:00:00
+100,2105,Malware Infection,High,293,Resolved,User Report,2024-03-05 03:00:00
+101,7478,Malware Infection,High,442,Resolved,Security Team,2024-03-05 04:00:00
+102,2843,SQL Injection,Medium,329,Resolved,User Report,2024-03-05 05:00:00
+103,7868,Credential Stuffing,Low,152,Resolved,Security Team,2024-03-05 06:00:00
+104,9443,Brute Force Attack,High,469,Resolved,Automated System,2024-03-05 07:00:00
+105,8096,Malware Infection,High,297,Resolved,Automated System,2024-03-05 08:00:00
+106,3669,Phishing Attempt,High,269,Resolved,Automated System,2024-03-05 09:00:00
+107,5816,Phishing Attempt,Low,470,Resolved,Security Team,2024-03-05 10:00:00
+108,6649,SQL Injection,High,382,In Progress,User Report,2024-03-05 11:00:00
+109,8338,Brute Force Attack,Low,248,In Progress,Security Team,2024-03-05 12:00:00
+110,5441,SQL Injection,Low,437,Resolved,Security Team,2024-03-05 13:00:00
+111,1774,Brute Force Attack,Medium,41,Escalated,Automated System,2024-03-05 14:00:00
+112,3655,Malware Infection,Low,406,In Progress,Security Team,2024-03-05 15:00:00
+113,9324,Brute Force Attack,High,284,In Progress,Security Team,2024-03-05 16:00:00
+114,7604,Malware Infection,Medium,186,Resolved,Automated System,2024-03-05 17:00:00
+115,2385,Credential Stuffing,High,337,In Progress,Security Team,2024-03-05 18:00:00
+116,7778,Phishing Attempt,High,498,Resolved,Automated System,2024-03-05 19:00:00
+117,2958,Credential Stuffing,Medium,474,In Progress,User Report,2024-03-05 20:00:00
+118,8189,Brute Force Attack,High,86,Resolved,Security Team,2024-03-05 21:00:00
+119,1079,Brute Force Attack,Medium,343,Resolved,Automated System,2024-03-05 22:00:00
